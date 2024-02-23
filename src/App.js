@@ -5,7 +5,9 @@ import Electric from './components/Form/Electric';
 function App() {
   return (
     <div className="App">
-     <Electric/>
+      <h1>State of Washington Electric Vehicle Population Data Registration form </h1>
+      <br/>
+<Electric/>
     </div>
   );
 }
